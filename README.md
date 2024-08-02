@@ -1,0 +1,1 @@
+- Build a SQL model to show Covid 19 insights and visualize these Metrics using Tableau
